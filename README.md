@@ -5,7 +5,7 @@ A custom designed macropad for personal use!
 * 128x32 OLED Display
 * EC11 Rotary Encoder
 * 7 WS2812B RGB LEDs. Four for backlighting and three for underglow.
-* SEEED XIAO Rp2040 MCU
+* SEEED XIAO RP2040 MCU
 * 3d printed and acrylic layered case. Incoporates built in kickstand to prop up macropad for better ergonomics.
 
 QMK Firmware
@@ -35,3 +35,11 @@ This macropad utilizes QMK firmware for all functions. Current macros:
 - Key #4 Toggles touchscreen on and off/Switches to international keyboard
 
 * Rotary encoder - Adjusts brightness (press for full)/Adjusts volume (press to mute)
+
+# Bill of Materials
+* 4x Cherry MX Switches
+* 4x DSA Keycaps
+* 5x N4148 DO-35 Diodes
+* 1x 0.91" 128x32 OLED Display
+* 1x XIAO RP2040
+* 1x Case (3 printed parts, 1 laser cut parts)
