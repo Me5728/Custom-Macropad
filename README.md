@@ -1,7 +1,7 @@
 # Custom-Macropad
 A custom designed macropad for personal use! 
 
-* 4 customizbale keys
+* 4 customizable keys
 * 128x32 OLED Display
 * EC11 Rotary Encoder
 * 7 WS2812B RGB LEDs. Four for backlighting and three for underglow.
@@ -17,7 +17,7 @@ QMK Firmware
 The case was designed in Fusion 360. It consists of 3 separate printed pieces and one layer of cut acrylic. For the revolute joints, assembly will require M3 bolts.
 
 # PCB Design
-The PCB was completely deisgned in KiCAD.
+The PCB was completely designed in KiCAD.
 
 PCB Schematic
 
