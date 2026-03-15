@@ -20,7 +20,6 @@ The case was designed in Fusion 360. It consists of 3 separate printed pieces an
 The PCB was completely designed in KiCAD.
 
 PCB Schematic
-<img src="file:///home/chronos/u-42377148663c386faa127316bfa318987d99933d/MyFiles/Downloads/Screenshot%202026-03-14%2010.46.46%20PM.png"/>
 
 PCB Layout
 
