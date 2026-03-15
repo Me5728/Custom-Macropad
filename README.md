@@ -28,10 +28,10 @@ PCB Model
 # Firmware Overview
 This macropad utilizes QMK firmware for all functions. Current macros:
 
-* 4 keys - Key #1 switches between layers
-Layer 1/ Layer 2:
-Key #2 Switches desk to right/Pulls up To Do list
-Key #3 Switches desk to left/Instant MLA formatting
-  #4 Toggles touchscreen on and off/Switches to international keyboard
+* Contains 4 keys
+- Key #1 switches between layers (Layer 1/Layer 2)
+- Key #2 Switches desk to right/Pulls up To Do list
+- Key #3 Switches desk to left/Instant MLA formatting
+- Key #4 Toggles touchscreen on and off/Switches to international keyboard
 
 * Rotary encoder - Adjusts brightness (press for full)/Adjusts volume (press to mute)
