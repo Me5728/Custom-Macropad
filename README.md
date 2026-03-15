@@ -4,7 +4,7 @@ A custom designed macropad for personal use!
 * 4 customizable keys
 * 128x32 OLED Display
 * EC11 Rotary Encoder
-* 7 WS2812B RGB LEDs. Four for backlighting and three for underglow.
+* 7x SK6812 Mini E-LEDs. Four for backlighting and three for underglow.
 * SEEED XIAO RP2040 MCU
 * 3d printed and acrylic layered case. Incoporates built in kickstand to prop up macropad for better ergonomics.
 
