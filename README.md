@@ -26,9 +26,9 @@ PCB Layout
 PCB Model
 
 # Firmware Overview
-This macropad utilizes QMK firmware for all functions. Current macros:
+This macropad utilizes QMK firmware for all functions. It controls the OLED display, pulses the LEDs, and controls the macros. Current macros:
 
-* Contains 4 keys
+* Contains 4 keys and 1 rotary encoder
 - Key #1 switches between layers (Layer 1/Layer 2)
 - Key #2 Switches desk to right/Pulls up To Do list
 - Key #3 Switches desk to left/Instant MLA formatting
