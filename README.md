@@ -42,4 +42,4 @@ This macropad utilizes QMK firmware for all functions. It controls the OLED disp
 * 5x N4148 DO-35 Diodes
 * 1x 0.91" 128x32 OLED Display
 * 1x XIAO RP2040
-* 1x Case (3 printed parts, 1 laser cut parts)
+* 1x Case (3 printed parts, 1 laser cut part)
